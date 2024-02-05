@@ -11,3 +11,7 @@ General Euler Identity circle for any natural integer not only for the unit circ
 <img src="ScreenShots/Screenshot 2024-02-04 192250.png" />
 <img src="ScreenShots/Screenshot 2024-02-04 192315.png" />
 <img src="ScreenShots/Screenshot 2024-02-04 192334.png" />
+<img src="ScreenShots/Screenshot 2024-02-05 160816.png" />
+<img src="ScreenShots/Screenshot 2024-02-05 160946.png" />
+
+
